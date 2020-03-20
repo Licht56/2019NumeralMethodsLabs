@@ -1,2 +1,4 @@
 # 2019NumeralMethodsLabs
-This is the course labs for 2019 fall numeral methods at USTC
+This are the lab works for numeral methods at USTC
+
+Course website at http://staff.ustc.edu.cn/~tongwh/NA_2019/
